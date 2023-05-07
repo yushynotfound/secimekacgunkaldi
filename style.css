@@ -1,0 +1,23 @@
+.countdown{
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+.countdown div{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #424242;
+    color: white
+}
+
+h1{
+    margin-left: 690px;
+    margin-top: 350px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
