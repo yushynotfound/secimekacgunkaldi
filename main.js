@@ -1,4 +1,4 @@
-const countDate = new Date('May 14,2023 08:00:00').getTime();
+const countDate = new Date('May 28,2023 08:00:00').getTime();
 
 function secim(){
     const now = new Date().getTime()
